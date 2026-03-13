@@ -25,6 +25,10 @@ Deployment and hardening of an Ubuntu EC2 instance using layered security contro
 - UFW firewall rules
 - Fail2Ban intrusion prevention
 - Authentication log monitoring
+- Hands-on AWS security lab demonstrating Linux server hardening, SSH security controls, firewall configuration, and intrusion detection.
+
+Repository:
+https://github.com/wcallender/aws-ec2-linux-hardening-lab
 
 ### Bash Tools for Technicians
 Automation scripts designed to improve workflow efficiency and operational safety for field technicians.
