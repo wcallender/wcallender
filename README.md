@@ -1,6 +1,6 @@
 # Wade O Callender
 
-AT&T Premises Technician | B.S. Cybersecurity | Security+ Candidate  
+AT&T Field Technician | B.S. Cybersecurity | Security+ Candidate  
 Dallas, Texas
 
 Cybersecurity graduate building hands-on labs focused on cloud security, Linux hardening, and intrusion detection.
